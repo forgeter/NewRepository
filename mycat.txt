@@ -1,8 +1,10 @@
-mycat²¿Êð
-1.mycat°²×°È¥¹ÙÍøÏÂÔØÔ´Âë±àÒë»òÕß¶þ½øÖÆÎÄ¼þÉÏ´«µ½·þÎñÆ÷Ä¿Â¼
-2.ÉèÖÃÎÄ¼þÆô¶¯È¨ÏÞ
-3.ÐÞ¸ÄmycatÅäÖÃÎÄ¼þ mycat/conf/Ä¿Â¼ÏÂµÄschema.xml¡¢server.xml £¬ÈçÐèÉèÖÃ·ÖÆ¬»¹ÐèÒªÅäÖÃrule.xmlµÄ·ÖÆ¬¹æÔò
-ÏêÇé¼û¹Ù·½ÎÄµµ
-mycatÆô¶¯£¨±¾µØxmlÎÄ¼þÆô¶¯·½Ê½£©
+mycatéƒ¨ç½²
+1.mycatå®‰è£…åŽ»å®˜ç½‘ä¸‹è½½æºç ç¼–è¯‘æˆ–è€…äºŒè¿›åˆ¶æ–‡ä»¶ä¸Šä¼ åˆ°æœåŠ¡å™¨ç›®å½•
+2.è®¾ç½®æ–‡ä»¶å¯åŠ¨æƒé™
+3.ä¿®æ”¹mycaté…ç½®æ–‡ä»¶ mycat/conf/ç›®å½•ä¸‹çš„schema.xmlã€server.xml ï¼Œå¦‚éœ€è®¾ç½®åˆ†ç‰‡è¿˜éœ€è¦é…ç½®rule.xmlçš„åˆ†ç‰‡è§„åˆ™
+è¯¦æƒ…è§å®˜æ–¹æ–‡æ¡£
+mycatå¯åŠ¨ï¼ˆæœ¬åœ°xmlæ–‡ä»¶å¯åŠ¨æ–¹å¼ï¼‰
 1.cd /data/mycat/bin
-2../mycat startÆô¶¯ stopÍ£Ö¹ restartÖØÆô
+2../mycat startå¯åŠ¨ stopåœæ­¢ restarté‡å¯   
+
+å®Œæˆ
